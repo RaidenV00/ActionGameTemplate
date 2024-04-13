@@ -1,0 +1,12 @@
+,1,2,3,4,5,6
+CharType,PlayerCharacter,Enermy1,Enermy2,Enermy3,Boss1,Egie
+GroundLightCombo01,9,8,12,15,12,9
+GroundLightCombo02,9,8,12,15,12,9
+GroundLightCombo03,11,9,12,22,18,9
+GroundLightCombo04,12,,4,,,9
+GroundLightCombo05,12,,8,,,9
+AirLightCombo01,9,9,5,15,12,9
+AirLightCombo02,9,9,5,15,12,9
+AirLightCombo03,11,11,5,22,18,9
+AirLightCombo04,12,,6,,,9
+AirLightCombo05,12,,9,,,9

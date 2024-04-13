@@ -1,0 +1,10 @@
+,CharacterNum
+BP_BasePlayer_C,1
+BP_WraithPlayer_C,1
+BP_HeroPlayer_C,1
+BP_Enermy0_BaseEnermy_C,2
+BP_Enermy0_BaseEnermy_PlayDead_C,2
+BP_Enermy1_Kallari_C,3
+BP_Enermy2_Khaimera_C,4
+BP_Enermy3_Egie,6
+BP_Boss1_George,5

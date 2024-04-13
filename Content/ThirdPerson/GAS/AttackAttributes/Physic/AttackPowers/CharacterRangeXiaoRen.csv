@@ -1,0 +1,12 @@
+,1,2,3,4,5,6
+CharType,PlayerCharacter,Enermy1,Enermy2,Enermy3,Boss1,Egie
+GroundRangeCombo01,1,2.5,5.5,11,12,1.2
+GroundRangeCombo02,1,2.5,5.5,11,12,2.3
+GroundRangeCombo03,1,2.5,5.5,11,12,2.3
+GroundRangeCombo04,1,2.5,5.5,11,12,2.3
+GroundRangeCombo05,1,2.5,5.5,11,12,2.3
+AirRangeCombo01,1,2.5,5.5,11,12,2.3
+AirRangeCombo02,1,2.5,5.5,11,12,2.3
+AirRangeCombo03,1,2.5,5.5,11,12,2.3
+AirRangeCombo04,1,2.5,5.5,11,12,2.3
+AirRangeCombo05,1,2.5,5.5,11,12,2.3

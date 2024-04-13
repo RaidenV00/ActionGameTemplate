@@ -1,0 +1,9 @@
+,1,2,3,4
+HP,100,70,85,120
+Stamina,100,120,100,100
+RenXing,9,9,5,15
+RenXingRecovery,0.7,0.7,0.7,0.7
+AttackPower,1,10,15,25
+DefensePower,1,1,1,1.2
+BreakPower,1,20,25,30
+DefenseBreak,1,1,1,1.2
