@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WindowsGamingInput.cpp.obj": [
+			"WindowsGamingInput.init.gen.cpp.obj",
+			"WindowsGamingInputBPLibrary.gen.cpp.obj",
+			"WindowsGamingInput.cpp.obj",
+			"WindowsGamingInputBPLibrary.cpp.obj"
+		]
+	}
+}

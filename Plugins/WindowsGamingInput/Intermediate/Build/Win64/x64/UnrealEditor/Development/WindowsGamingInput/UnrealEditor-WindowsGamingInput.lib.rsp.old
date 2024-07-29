@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WindowsGamingInput.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"D:\Unreal Projects\GitLab\ActionGame\ACT2Project\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\Module.WindowsGamingInput.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"D:\Unreal Projects\GitLab\ActionGame\ACT2Project\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\UnrealEditor-WindowsGamingInput.lib"
