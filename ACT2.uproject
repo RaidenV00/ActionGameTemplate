@@ -55,6 +55,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "MotionWarping",
+			"Enabled": true
+		},
+		{
 			"Name": "AudioModulation",
 			"Enabled": true
 		},

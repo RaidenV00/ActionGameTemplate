@@ -1,11 +1,11 @@
-"E:\ACTProjectTemplate\TemplateProject\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\Module.WindowsGamingInput.cpp"
-/FI"E:\ACTProjectTemplate\TemplateProject\Intermediate\Build\Win64\x64\ACT2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/FI"E:\ACTProjectTemplate\TemplateProject\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\Definitions.WindowsGamingInput.h"
-/Yu"E:\ACTProjectTemplate\TemplateProject\Intermediate\Build\Win64\x64\ACT2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"E:\ACTProjectTemplate\TemplateProject\Intermediate\Build\Win64\x64\ACT2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
-/Fo"E:\ACTProjectTemplate\TemplateProject\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\Module.WindowsGamingInput.cpp.obj"
-/sourceDependencies "E:\ACTProjectTemplate\TemplateProject\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\Module.WindowsGamingInput.cpp.dep.json"
-@"E:\ACTProjectTemplate\TemplateProject\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\WindowsGamingInput.Shared.rsp"
+"E:\UnrealProjects\ACTGameTemplate\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\Module.WindowsGamingInput.cpp"
+/FI"E:\UnrealProjects\ACTGameTemplate\Intermediate\Build\Win64\x64\ACT2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"E:\UnrealProjects\ACTGameTemplate\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\Definitions.WindowsGamingInput.h"
+/Yu"E:\UnrealProjects\ACTGameTemplate\Intermediate\Build\Win64\x64\ACT2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"E:\UnrealProjects\ACTGameTemplate\Intermediate\Build\Win64\x64\ACT2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"E:\UnrealProjects\ACTGameTemplate\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\Module.WindowsGamingInput.cpp.obj"
+/sourceDependencies "E:\UnrealProjects\ACTGameTemplate\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\Module.WindowsGamingInput.cpp.dep.json"
+@"E:\UnrealProjects\ACTGameTemplate\Plugins\WindowsGamingInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\WindowsGamingInput\WindowsGamingInput.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
